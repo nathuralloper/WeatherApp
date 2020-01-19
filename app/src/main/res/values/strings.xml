@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="text_degree">23°</string>
+    <string name="text_city">Santo Domingo</string>
+    <string name="text_status">Nublado</string>
+    <string name="text_welcome">
+        Bienvenido a mi app del clima, para poder ver el clima de una ciudad selecciona la opción de abajo.
+    </string>
+    <string name="text_button_weather">
+        Consultar Clima
+    </string>
+</resources>
